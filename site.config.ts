@@ -44,7 +44,8 @@ export default siteConfig({
   //
   pageUrlOverrides: {
     '/about': '9807e9619792431ea525f1920ac09178',
-    '/contact': 'dc6ed1e0137e40cab326db2465129b2f'
+    '/contact': 'dc6ed1e0137e40cab326db2465129b2f',
+    '/': 'a0d12fc180f943bcb4600f278cd86d9a'
   },
   pageUrlAdditions: {
     '/the-social-audio-revolution': 'c4deaf33cc924ad7a5b9f69c6ae04a01'
@@ -56,6 +57,11 @@ export default siteConfig({
   // navigationStyle: 'default',
   navigationStyle: 'custom',
   navigationLinks: [
+    {
+      title: '首页',
+      url: '/',
+      pageId: 'a0d12fc180f943bcb4600f278cd86d9a'
+    },
     {
       title: '关于我',
       url: '/about',
