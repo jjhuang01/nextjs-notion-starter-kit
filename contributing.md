@@ -9,7 +9,7 @@ To develop the project locally, you'll need a recent version of Node.js and `yar
 To get started, clone the repo and run `yarn` from the root directory:
 
 ```bash
-git clone https://github.com/transitive-bullshit/nextjs-notion-starter-kit
+git clone https://github.com/jjhuang01/nextjs-notion-starter-kit
 cd nextjs-notion-starter-kit
 yarn
 ```
