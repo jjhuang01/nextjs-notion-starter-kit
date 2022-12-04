@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '',
+  name: '无双思绪飞扬',
   domain: 'https://mangrove-twine-2ce.notion.site/a0d12fc180f943bcb4600f278cd86d9a',
   author: '无双',
 
