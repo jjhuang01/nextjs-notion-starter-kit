@@ -49,7 +49,7 @@ export default siteConfig({
   pageUrlAdditions: {
     '/the-social-audio-revolution': 'c4deaf33cc924ad7a5b9f69c6ae04a01'
   },
-  pageUrlOverrides: null,
+  // pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
