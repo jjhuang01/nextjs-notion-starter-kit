@@ -46,6 +46,9 @@ export default siteConfig({
   //   '/about': '9807e9619792431ea525f1920ac09178',
   //   '/contact': 'dc6ed1e0137e40cab326db2465129b2f'
   // },
+  pageUrlAdditions: {
+    '/the-social-audio-revolution': 'c4deaf33cc924ad7a5b9f69c6ae04a01'
+  },
   pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
