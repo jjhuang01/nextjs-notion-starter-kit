@@ -55,10 +55,12 @@ export default siteConfig({
   navigationLinks: [
     {
       title: '关于我',
+      url: '/about',
       pageId: '9807e9619792431ea525f1920ac09178'
     },
     {
       title: '联系我',
+      url: '/contact',
       pageId: 'dc6ed1e0137e40cab326db2465129b2f'
     }
   ]
