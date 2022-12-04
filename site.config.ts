@@ -43,7 +43,7 @@ export default siteConfig({
   // example:
   //
   pageUrlOverrides: {
-    '/关于我': 'df34c0e7d88e4b39a9a913cd1c00cab7',
+    '/about': 'df34c0e7d88e4b39a9a913cd1c00cab7',
     // '/bar': '0be6efce9daf42688f65c76b89f8eb27'
   },
   pageUrlOverrides: null,
@@ -54,7 +54,7 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: '关于我',
+      title: 'about',
       pageId: 'df34c0e7d88e4b39a9a913cd1c00cab7'
     },
     {
