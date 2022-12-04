@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '无双思绪飞扬',
-  domain: 'https://mangrove-twine-2ce.notion.site/workscpace-a0d12fc180f943bcb4600f278cd86d9a',
+  domain: 'https://mangrove-twine-2ce.notion.site/a0d12fc180f943bcb4600f278cd86d9a',
   author: '无双',
 
   // open graph metadata (optional)
