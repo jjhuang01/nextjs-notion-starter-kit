@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  // twitter: 'transitive_bs',
-  // github: 'transitive-bullshit',
-  // linkedin: 'fisch2',
+  twitter: 'transitive_bs',
+  github: 'transitive-bullshit',
+  linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
@@ -50,16 +50,16 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages
-  // navigationStyle: 'default'
-  navigationStyle: 'custom',
-  navigationLinks: [
-    {
-      title: '了解我',
-      pageId: 'df34c0e7d88e4b39a9a913cd1c00cab7'
-    },
-    {
-      title: '联系我',
-      pageId: 'ea3f9031ea624d79a17cd6931fef10ec'
-    }
-  ]
+  navigationStyle: 'default'
+  // navigationStyle: 'custom',
+  // navigationLinks: [
+  //   {
+  //     title: 'About',
+  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+  //   },
+  //   {
+  //     title: 'Contact',
+  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
+  //   }
+  // ]
 })
