@@ -42,10 +42,10 @@ export default siteConfig({
   // any pages defined here will override their default URL paths
   // example:
   //
-  // pageUrlOverrides: {
-  //   '/foo': '067dd719a912471ea9a3ac10710e7fdf',
-  //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
-  // }
+  pageUrlOverrides: {
+    '/about': 'df34c0e7d88e4b39a9a913cd1c00cab7',
+    // '/bar': '0be6efce9daf42688f65c76b89f8eb27'
+  },
   pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
@@ -54,7 +54,7 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: '了解我',
+      title: '关于我',
       pageId: 'df34c0e7d88e4b39a9a913cd1c00cab7'
     },
     {
