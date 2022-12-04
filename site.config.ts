@@ -43,7 +43,7 @@ export default siteConfig({
   // example:
   //
   pageUrlOverrides: {
-    '/about': 'df34c0e7d88e4b39a9a913cd1c00cab7',
+    '/关于我': 'df34c0e7d88e4b39a9a913cd1c00cab7',
     // '/bar': '0be6efce9daf42688f65c76b89f8eb27'
   },
   pageUrlOverrides: null,
